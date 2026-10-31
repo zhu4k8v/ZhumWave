@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+dist_build/
+release/
+*.exe
+*.zip
+*.log
+player_settings.json
+debug.log
+zhumwave_error.log
+*.tmp
+*.bak

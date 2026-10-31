@@ -1,0 +1,16 @@
+ZhumWave
+Copyright (c) 2026 ZhumWave. All rights reserved.
+
+ZhumWave is distributed as freeware. You may install and use it for personal
+or commercial purposes. You may redistribute the original, unmodified
+installer or portable package.
+
+You may not sell ZhumWave, distribute modified copies under the ZhumWave name,
+or remove this notice from the distributed package.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
